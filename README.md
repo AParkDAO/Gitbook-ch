@@ -6,7 +6,7 @@ description: 关于ApePark Dao
 
 ## 什么是ApePark DAO？
 
-{% embed url="https://youtu.be/uWy2MFATxqM" %}
+{% embed url="https://youtu.be/fAdNrcNziw8" %}
 
 ApeParkDAO在打造一个前所未有的元宇宙生态，以GameFi+NFT为核心，结合了Web3.0+DAO治理+储蓄代币增值协议为平台上入驻的游戏构建底层经济基础，提供可信的交易凭证。我们吸引了游戏、金融、区块链等领域的多名顶级专家加入，他们的项目经验及研究成果是本项目成功的基石，为平台注入了强大的技术基因。我们不仅可以帮助传统游戏厂商进行Web3.0转型升级，还可以提供专业的链上服务代运营以及流量扶持等多元化服务，从而实现链游生态全方位的价值体现。
 
