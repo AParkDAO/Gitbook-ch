@@ -16,7 +16,7 @@
 * [🔒 Unity](unity.md)
 * [🛎 Bargain](bargain.md)
 * [🪙 SellFee](sellfee.md)
-* [🤝 Doughnut](doughnut.md)
+* [🍩 Doughnut](doughnut.md)
 * [⚜ ER(Enforce Rich)](er-enforce-rich.md)
 * [🥇 Bonus](bonus.md)
 
