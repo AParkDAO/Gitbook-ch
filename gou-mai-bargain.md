@@ -30,7 +30,7 @@ ApeParkDAO在其网站上提供2种Bargain购买方式：USDT 和 APD-USDT LP Ba
 
 **归属期限衡量**Bargain完全赎回所需的时间。这个数字在币安智能链区块中， 1,512,000 个区块大约需要14天或42个 epoch。
 
-**贴现**是Bargain价格与市场价格之间的差额。
+**折扣**是Bargain价格与市场价格之间的差额。
 
 **待定奖励**是您有权从Bargain中获得的APD数量。
 
